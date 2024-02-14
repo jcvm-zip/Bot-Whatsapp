@@ -1,0 +1,1 @@
+# Bot de envio de mensagens para whatsapp com base em tabela
